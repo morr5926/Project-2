@@ -1,0 +1,8 @@
+{
+    "git.scanRepositories": [
+        "\"C:\\Users\\morrii1\\Boston Scientific\\Team 5 SEIS 631 - Project 2\\Project 2\""
+    ],
+    "files.exclude": {
+        "**/.git": false
+    }
+}
